@@ -25,7 +25,7 @@
 
 
 
-
+[![Download EXE](https://img.shields.io/badge/Download-EXE-blue?style=for-the-badge)]([https://github.com/sergejs-dev/python-marketing-analytics-dashboard/releases/latest](https://github.com/sergejs-dev/python-csv-converter--excel-pdf/releases/tag/v1.0.0))
 
 
 
