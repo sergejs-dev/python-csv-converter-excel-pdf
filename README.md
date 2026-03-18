@@ -40,6 +40,26 @@ Built with Python, CustomTkinter, and PyInstaller.
 
 
 
+## 🖥️ Application Preview
+
+
+
+### Main Interface
+
+![GUI](screenshots/1.png)
+
+
+
+### Excel Output
+
+![Excel](screenshots/2.png)
+
+
+
+### PDF Output
+
+![PDF](screenshots/3.png)
+
 ---
 
 
@@ -65,26 +85,6 @@ Built with Python, CustomTkinter, and PyInstaller.
 ---
 
 
-
-## 🖥️ Application Preview
-
-
-
-### Main Interface
-
-![GUI](screenshots/1.png)
-
-
-
-### Excel Output
-
-![Excel](screenshots/2.png)
-
-
-
-### PDF Output
-
-![PDF](screenshots/3.png)
 
 
 
