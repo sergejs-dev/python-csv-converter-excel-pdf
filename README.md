@@ -20,7 +20,7 @@
 
 
 
-👉 [Download Latest Release]( https://github.com//sergejs-dev/python-csv-excel-pdf-converter/releaseshttps://github.com/sergejs-dev/python-csv-converter--excel-pdf/releases/tag/v1.0.0)
+👉 [Download Latest Release]( https://github.com/sergejs-dev/python-csv-converter--excel-pdf/releases/tag/v1.0.0)
 
 
 
