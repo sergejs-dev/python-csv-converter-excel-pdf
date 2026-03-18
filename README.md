@@ -17,7 +17,8 @@
 
 
 ## 📦 Download
-[![Download](https://img.shields.io/badge/Download-Inventory_Manager_EXE-blue?style=for-the-badge)](https://https://github.com/sergejs-dev/python-csv-converter--excel-pdf/releases/tag/v1.0.0) 
+[![Download](https://img.shields.io/badge/Download-csv_convertor.exe
+-blue?style=for-the-badge)](https://https://github.com/sergejs-dev/python-csv-converter--excel-pdf/releases/tag/v1.0.0) 
 
 
 
