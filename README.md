@@ -1,16 +1,12 @@
-&#x20;
+# CSV Converter Pro
 
 
 
-\# CSV Converter Pro
+![Python]( https://img.shields.io/badge/Python-3.11-blue)
 
+![Platform]( https://img.shields.io/badge/Platform-Windows-lightgrey)
 
-
-!\[Python]( https://img.shields.io/badge/Python-3.11-blue)
-
-!\[Platform]( https://img.shields.io/badge/Platform-Windows-lightgrey)
-
-!\[License]( https://img.shields.io/badge/License-MIT-green)
+![License]( https://img.shields.io/badge/License-MIT-green)
 
 !\[Status]( https://img.shields.io/badge/Status-Stable-success)
 
@@ -20,11 +16,11 @@
 
 
 
-\## 📦 Download
+## 📦 Download
 
 
 
-👉 \[Download Latest Release]( https://github.com//sergejs-dev/python-csv-excel-pdf-converter/releases)
+👉 [Download Latest Release]( https://github.com//sergejs-dev/python-csv-excel-pdf-converter/releases)
 
 
 
@@ -44,55 +40,55 @@ Built with Python, CustomTkinter, and PyInstaller.
 
 
 
-\---
+---
 
 
 
-\## 🚀 Features
+## 🚀 Features
 
 
 
-\- Convert CSV → Excel (.xlsx)
+- Convert CSV → Excel (.xlsx)
 
-\- Convert Excel → PDF
+- Convert Excel → PDF
 
-\- Dark Mode UI (CustomTkinter)
+- Dark Mode UI (CustomTkinter)
 
-\- Automatic column width adjustment
+- Automatic column width adjustment
 
-\- Clean and simple interface
+- Clean and simple interface
 
-\- Standalone EXE build (no Python required)
-
-
-
-\---
+- Standalone EXE build (no Python required)
 
 
 
-\## 🖥️ Application Preview
+---
 
 
 
-\### Main Interface
-
-!\[GUI](screenshots/1.png)
+## 🖥️ Application Preview
 
 
 
-\### Excel Output
+### Main Interface
 
-!\[Excel](screenshots/2.png)
-
-
-
-\### PDF Output
-
-!\[PDF](screenshots/3.png)
+![GUI](screenshots/1.png)
 
 
 
-csv\_converter/
+### Excel Output
+
+![Excel](screenshots/2.png)
+
+
+
+### PDF Output
+
+![PDF](screenshots/3.png)
+
+
+
+csv_converter/
 
 
 
@@ -162,13 +158,13 @@ csv\_converter/
 
 
 
-\## 📂 Project Structure
+## 📂 Project Structure
 
-\---
+---
 
 
 
-\## ⚙️ Installation
+## ⚙️ Installation
 
 
 
@@ -196,17 +192,17 @@ cd python-csv-excel-pdf-converter
 
 
 
-&#x20;   Python
+   Python
 
-&#x20;   CustomTkinter
+  CustomTkinter
 
-&#x20;   Pandas
+   Pandas
 
-&#x20;   OpenPyXL
+   OpenPyXL
 
-&#x20;   PyWin32
+   PyWin32
 
-&#x20;   PyInstaller
+  PyInstaller
 
 
 
@@ -228,9 +224,9 @@ cd python-csv-excel-pdf-converter
 
 
 
-&#x20;   Excel must be installed on the system for PDF conversion
+   Excel must be installed on the system for PDF conversion
 
-&#x20;   Designed as a lightweight desktop utility
+  Designed as a lightweight desktop utility
 
 
 
