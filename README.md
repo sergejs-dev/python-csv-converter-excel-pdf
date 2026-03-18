@@ -8,7 +8,7 @@
 
 ![License]( https://img.shields.io/badge/License-MIT-green)
 
-!\[Status]( https://img.shields.io/badge/Status-Stable-success)
+![Status]( https://img.shields.io/badge/Status-Stable-success)
 
 
 
