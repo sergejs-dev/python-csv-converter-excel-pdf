@@ -28,7 +28,9 @@
 
 
 
+ ## 🚀 Download
 
+[![Download]( https://img.shields.io/badge/Download-EXE-blue?style=for-the-badge)]( https://github.com/sergejs-dev/python-csv-converter-excel-pdf/releases/latest) 
 
 
 
